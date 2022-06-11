@@ -1,0 +1,11 @@
+# ninja log v5
+5	769	6766514229813078	CMakeFiles/GameOfLife.dir/main.c.obj	590d19309c3902cd
+5	89	6766507256920132	CMakeFiles/GameOfLife.dir/life.c.obj	a63ed0a2bf74c752
+769	926	6766514231375206	GameOfLife.exe	2edad5e7a3c131a
+11	196	6766517722476560	CMakeFiles/GameOfLife.dir/life.c.obj	d355cf0cac765bc3
+6	1396	6766517734504989	CMakeFiles/GameOfLife.dir/main.c.obj	9d0afaab2e8a0e43
+1397	1488	6766517735442239	GameOfLife.exe	cd3c772785f21d4a
+2	419	6766521065618313	CMakeFiles/GameOfLife.dir/main.c.obj	9d0afaab2e8a0e43
+422	551	6766521066802225	GameOfLife.exe	cd3c772785f21d4a
+4	3272	6766874468271458	CMakeFiles/GameOfLife.dir/main.c.obj	9d0afaab2e8a0e43
+3273	4989	6766874485452186	GameOfLife.exe	cd3c772785f21d4a
